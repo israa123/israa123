@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <p align="center"> 
   <img src="https://www.facebook.com/photo/?fbid=122113452818344120&set=a.122102092862344120" />
  </p>
@@ -9,7 +6,7 @@
   
  <h3>Glad to see you here!</h3>
  <!-- Connect with me -->
- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me: 00963934036761</h3>
  <p align="left">
   
  
@@ -28,6 +25,5 @@
 - 🌱 I’m currently learning NodeJs 
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about programming languages : HTML , CSS , JS , BOOTSTRAP , JQUERY , DART , FLUTTER , NODEJS , MONGODB , PROGRAMS OFFICE.
-- 📫 How to reach me: 00963934036761
   SALAM 😄 
 
