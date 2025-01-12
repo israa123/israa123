@@ -2,7 +2,7 @@
   <img src="https://www.facebook.com/photo/?fbid=122113452818344120&set=a.122102092862344120" />
  </p>
   <!-- welcome message -->
- <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+ <h2>Salam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   
  <h3>Glad to see you here!</h3>
  <!-- Connect with me -->
@@ -25,5 +25,5 @@
 - 🌱 I’m currently learning NodeJs 
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about programming languages : HTML , CSS , JS , BOOTSTRAP , JQUERY , DART , FLUTTER , NODEJS , MONGODB , PROGRAMS OFFICE.
-  SALAM 😄 
+  - SALAM 😄 
 
